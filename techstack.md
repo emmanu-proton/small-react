@@ -28,7 +28,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [emmanu-proton/small-react](https://github.com/emmanu-proton/small-react)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|11<br/>Tools used|02/27/24 <br/>Report generated|
+|11<br/>Tools used|02/28/24 <br/>Report generated|
 |------|------|
 </div>
 
